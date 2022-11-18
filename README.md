@@ -1,2 +1,2 @@
 # AlgoWarriors_v3
-itskills algorithm    please react ur branch and folder , copy and paste ur answers in the folder. 
+itskills algorithm    please create your branch and folder , copy and paste your answers in the folder. 
